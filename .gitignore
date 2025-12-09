@@ -1,0 +1,21 @@
+# Vivado temporary files
+*.jou
+*.log
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+.Xil/
+*.str
+dfx_runtime.txt
+vivado.log
+vivado.jou
+
+# Build outputs
+*.bit
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
